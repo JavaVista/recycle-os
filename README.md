@@ -10,7 +10,7 @@ When greeted by the homepage it will ask for an RFID number. The allowable numbe
 
 In the user profile, there will be some readout's of your information, and in the top right there will be your badge. The badges were all based on submissions in an Orlando flag competition. Given more time, below that would have been the actual images received from.
 
-##Team:
+## Team:
 
 * Ryan Harrigan 
 * Matt Lucas
