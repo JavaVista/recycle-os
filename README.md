@@ -2,7 +2,7 @@
 
 An application we created during the Hackathon. We received the third-place award for this application. 
 
-![Recycle-O's](/images/screenshot.png)
+![Recycle-O's](screenshot.png)
 
 Recycle-O's is a two-part application. The first is the ability to use a trained model with the help of a Google Vision API to insert trash into a special box that would be scanned and figure out if you can recycle it or not. The next part is one where you can register yourself in the form of an RFID card and scan said box and get points for each time you add recyclables. The points will give you badges shareable on social media, and a place on the leaderboard.
 
